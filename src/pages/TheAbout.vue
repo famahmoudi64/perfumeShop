@@ -57,7 +57,7 @@
   .container2 {
      width:100vw;
      height:calc(100vh - 68px);
-     background-image: url('../assets/images/image9.jpeg');
+     /* background-image: url('../assets/images/image9.jpeg'); */
      background-size: cover;
   } 
   .border {
