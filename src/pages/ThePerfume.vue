@@ -1,18 +1,17 @@
 <template>
-    <!-- <div class="background-perf"> 
+    <div class="background-perf"> 
      <div class="container">
        <div class="row justify-content-center">
          <div class="col-md-6 mt-3">
            <div class="card mb-3">
            <div class="row g-0">
              <div class="col-md-4">
-               <img src="../assets/images/image3.jpeg" class="img-fluid rounded-start dynamic-height-image" alt="...">
+               <img src="../assets/images/img1.jpeg" class="img-fluid rounded-start dynamic-height-image" alt="...">
              </div>
-             <div class="col-md-8">
+             <div class="col-md-8 bg-info-subtle">
                <div class="card-body">
-                 <h5 class="card-title">perfume1</h5>
-                 <p class="card-text"> i impedit ipsa eligendi a minima consequatur distinctio! Tempora sit ut, provident eos quam sequi magni mollitia quisquam rerum commodi illum veritatis, dignissimos corrupti nulla! Facere modi maiores sit nisi. Ratione, qui, enim eius perspiciatis fuga rerum pariatur ipsum sapiente dicta mollitia inventore consectetur assumenda, provident laudantium culpa repellendus voluptas at temporibus obcaecati quia! Amet in impedit nihil sint aut quis, aspernatur ab dolore earum, maxime sit delectus officia tempora quidem architecto exercitationem aliquam eos, maiores atque molestias vitae corporis est! Perferendis, veritatis quaerat! ipsum dolor sit amet consectetur, adipisicing elit. Sit aliquid reiciendis recusandae dolores beatae laborum voluptatum! Eos tempora consequatur laborum?</p>
-                 <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                 <h5 class="card-title">Willem friderik</h5>
+                 <p class="card-text">It is incredibly concentrated, submerging the iconic freshness of the perfume in the intoxicating spicy notes in the middle notes. A custom and special lavender extract and a blend of precious woods in this perfume have led to the creation of a powerful and majestic signature and an alluring and captivating trail.</p>
                </div>
              </div>
            </div>
@@ -26,13 +25,12 @@
          <div class="card mb-3">
            <div class="row g-0">
              <div class="col-md-4">
-               <img src="../assets/images/image8.jpeg" class="img-fluid rounded-start dynamic-height-image" alt="...">
+               <img  src="../assets/images/img2.jpeg" class="img-fluid rounded-start dynamic-height-image" alt="...">
              </div>
-             <div class="col-md-8">
+             <div class="col-md-8 bg-danger-subtle">
                <div class="card-body">
-                 <h5 class="card-title">perfume2</h5>
-                 <p class="card-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit aliquid reiciendis recusandae dolores beatae laborum voluptatum! Eos tempora consequatur laborum?</p>
-                 <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                 <h5 class="card-title">Juliana</h5>
+                 <p class="card-text">Warm and seductive, it consists of a wonderful powdery cashmere accord with a vague hint of vanilla and papyrus. Middle notes of cinnamon and nutmeg give it a spiciness, while a stimulating blend of tobacco flowers, pure laden, vanilla, coumarin and musk form the base of this intoxicating scent</p>
                </div>
              </div>
            </div>
@@ -46,13 +44,12 @@
          <div class="card mb-3">
            <div class="row g-0">
              <div class="col-md-4">
-               <img src="../assets/images/image9.jpeg" class="img-fluid rounded-start dynamic-height-image" alt="...">
+               <img src="../assets/images/img3.jpeg" class="img-fluid rounded-start dynamic-height-image" alt="...">
              </div>
-             <div class="col-md-8">
+             <div class="col-md-8 bg-dark-subtle">
                <div class="card-body">
-                 <h5 class="card-title">perfume3</h5>
-                 <p class="card-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit aliquid reiciendis recusandae dolores beatae laborum voluptatum! Eos tempora consequatur laborum?</p>
-                 <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                 <h5 class="card-title">Willem alexander</h5>
+                 <p class="card-text">This exceptional and very unique perfume has a very special, stylish fragrance with excellent fragrance distribution and a very long shelf life, which is due to the very special composition of this perfume consisting of leather, saffron, frankincense and incense.</p>
                </div>
              </div>
            </div>
@@ -66,13 +63,12 @@
          <div class="card mb-3">
            <div class="row g-0">
              <div class="col-md-4">
-               <img src="../assets/images/image1.jpeg" class="img-fluid rounded-start dynamic-height-image" alt="...">
+               <img src="../assets/images/img4.jpeg" class="img-fluid rounded-start dynamic-height-image" alt="...">
              </div>
-             <div class="col-md-8">
+             <div class="col-md-8 bg-primary-subtle">
                <div class="card-body">
-                 <h5 class="card-title">perfume4</h5>
-                 <p class="card-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit aliquid reiciendis recusandae dolores beatae laborum voluptatum! Eos tempora consequatur laborum?</p>
-                 <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                 <h5 class="card-title">Wilhelmina</h5>
+                 <p class="card-text">This cologne, which has a warm scent, starts with a prominent smell of two combinations of rose and raspberry in the initial note. Next, in the middle note, black gooseberry and pink pepper appear, and behind them, jasmine flowers and purple centaury flowers appear. Then in the final notes of vanilla, cedar and musk finish this perfume</p>
                </div>
              </div>
            </div>
@@ -80,38 +76,17 @@
        </div>
      </div>
    </div>
-   </div>  -->
-   <p>kjk</p>
+   </div> 
    
 </template>
    
    <script>
    
-   
    export default {
    }
    </script>
    <style scoped>
-   
-   
-   
-   /* .paragraph-container {
-     padding-top: 70px;
-     align-items: center;
-     justify-content: center;
-     overflow-y: auto;
-     font-size: x-large;
-   } */
-   
-   .image-container1 {
-       position: relative;
-       width: 100vw;
-       height: 100vh;
-       background-color: rgb(122, 42, 151);
-       /* background-image: url('../assets/images/image-main.jpeg');  */
-       background-size: cover;
-       background-attachment: fixed; /* Background attachment set to fixed */
-   }
+
    .background-perf {
     background-color: rgb(66, 35, 95);
    }

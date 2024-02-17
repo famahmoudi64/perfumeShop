@@ -12,25 +12,22 @@
               <router-link class="nav-link text-light font" aria-current="page" href="#"  to="/">Home</router-link>
             </li>
             <li class="nav-item">
-              <router-link class="nav-link text-light font" aria-current="page" href="#"  to="/aboutBE">About BE</router-link>
+              <router-link class="nav-link text-light font" aria-current="page" href="#"  :to="{name:'About'}">About BE</router-link>
             </li>
             <li class="nav-item">
-              <router-link class="nav-link text-light font" href="#" to="/perfume">Perfumes</router-link>
+              <router-link class="nav-link text-light font" href="#" :to="{name:'perfume'}">Perfumes</router-link>
             </li>
             <li class="nav-item">
-              <router-link class="nav-link text-light font" href="#" to="/contact">Contact</router-link>
-            </li>
-            <li class="nav-item">
-              <router-link class="nav-link text-light font" href="#" to="/validation">Validity</router-link>
+              <router-link class="nav-link text-light font" href="#" :to="{name:'contact'}">Contact BE</router-link>
             </li>
           </ul>
         </div>
         <ul class="navbar-nav ms-auto">
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <router-link class="nav-link p-1 me-3 text-light" to="/QR">
               BE
             </router-link>
-          </li>
+          </li> -->
         </ul>
       </div>
     </div>
@@ -44,7 +41,7 @@
 <style scoped>
 .router-link-active {
     color:rgba(0,0,0,0.9);
-    border-bottom:2px solid rgba(154, 38, 177, 0.9)
+    border-bottom:2px solid rgba(155, 111, 163, 0.9)
 }
 .bi{
     font-size:2rem
@@ -67,7 +64,7 @@
     transition: all 0.3s ease;
     padding:15px 0px 7px;
   }
-  .font{
+  .font {
     font-size: var(--bs-navbar-brand-font-size)
   }
 </style>
